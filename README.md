@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ondrasalek
+- 👋 Hi, I’m [@ondrasalek](https://github.com/ondrasalek)
 - 👀 I’m interested in `Web applications, Multiplatform programming, Web design...`
 - 🌱 I’m studying at `Tomas Bata University in Zlin, Faculty of Applied Informatics, specialization - Software engineering`
 - 🌱 I’m currently learning `Python` & `JS` bcs I love these languages
