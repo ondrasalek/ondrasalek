@@ -3,8 +3,8 @@
 - 🌱 I’m studying at `Tomas Bata University in Zlin, Faculty of Applied Informatics, specialization - Software engineering`
 <!---- 
 🌱 I’m currently learning `Python` & `JS`
---->
 - 💞️ I’m looking to collaborate on `Frontend WEB Applications...`
+--->
 - 📫 How to reach me - send me email to `ondrasalek@gmail.com`
 
 ![](https://komarev.com/ghpvc/?username=ondrasalek&color=blue&style=plastic&label=Profile+View)
