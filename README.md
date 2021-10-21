@@ -5,7 +5,7 @@
 🌱 I’m currently learning `Python` & `JS`
 - 💞️ I’m looking to collaborate on `Frontend WEB Applications...`
   --->
-- 📫 How to reach me - send me email to `ondrasalek@gmail.com`
+- 📫 How to reach me - `ondrasalek@gmail.com`
 
 ![](https://komarev.com/ghpvc/?username=ondrasalek&color=blue&style=plastic&label=Profile+View)
 ![](https://hit.yhype.me/github/profile?user_id=57462486)
