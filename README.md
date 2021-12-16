@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@ondrasalek](https://github.com/ondrasalek)
+- 👋 Hi, My name is Ondrej Salek <[@ondrasalek](https://github.com/ondrasalek)>
 <!-- - 👀 I’m interested in `Web applications, Multiplatform programming...` -->
 - 🌱 I’m studying at `Tomas Bata University in Zlin, Faculty of Applied Informatics, specialization - Software engineering`
 <!---- 
