@@ -7,8 +7,6 @@
   --->
 - 📫 How to reach me - <a href="mailto:ondrasalek@gmail.com">ondrasalek@gmail.com</a>
 
-<iframe hidden width="20" height="10" src="https://www.youtube.com/embed/4mJayYlfcWo" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;"></iframe>
-
 ![](https://komarev.com/ghpvc/?username=ondrasalek&color=blue&style=plastic&label=Profile+View)
 ![](https://hit.yhype.me/github/profile?user_id=57462486)
 
