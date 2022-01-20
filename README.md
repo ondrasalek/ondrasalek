@@ -20,8 +20,12 @@
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&color=5C2D91)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=00000F)
 
+<br>
+
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+
+<br>
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
@@ -44,6 +48,26 @@
 <a href="https://www.linkedin.com/in/ondrejsalek/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 </br>
+
+<table>
+<tr>
+<th> Stats </th>
+<th> Most Used Languages </th>
+</tr>
+<tr>
+<td>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=ondrasalek&theme=dark&hide_title=true&custom_title=Stats&disable_animations=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ondrasalek&theme=dark&hide_title=true&layout=compact)](https://github.com/yushi1007)
+
+</td>
+</tr>
+
+</table>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ondrasalek&left_color=grey&right_color=violet)
 
