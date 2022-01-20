@@ -45,7 +45,7 @@
 
 </br>
 
-![Profile View](https://visitor-badge.glitch.me/badge?page_id=ondrasalek&right_color=#DE73FF)
+![](https://visitor-badge.glitch.me/badge?page_id=ondrasalek&left_color=grey&right_color=violet)
 
 <!---
 ondrasalek/ondrasalek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
