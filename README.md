@@ -4,7 +4,7 @@
 👋 Hi, I’m <a href=”https://github.com/ondrasalek" target=”_blank” rel=”noreferrer”>Ondrej Salek</a>
 </h3>
 
-### 🤳 About me
+## 🤳 About me
 
 - I am 22 year old, from 🇨🇿 Czech Republic.
 - 🌱 I’m studying at [`Tomas Bata University in Zlin, Faculty of Applied Informatics, specialization`](https://www.utb.cz/en/)
@@ -28,7 +28,7 @@
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=google-cloud&color=4285F4)
 
-## Working with
+## 💻 Working with
 
 ![](https://img.shields.io/badge/Apple-MacBook-999999?style=flat-square&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=windows&logoColor=white)
