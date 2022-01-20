@@ -2,8 +2,9 @@
 👋 Hi, I’m <a href=”https://github.com/ondrasalek" target=”_blank” rel=”noreferrer”>Ondrej Salek</a>
 </h3>
   
-<!-- - 👀 I’m interested in `Web applications, Multiplatform programming...` -->
 - 🌱 I’m studying at `Tomas Bata University in Zlin, Faculty of Applied Informatics, specialization - Software engineering` [TBU FAI](https://fai.utb.cz/en/)
+
+<!-- - 👀 I’m interested in `Web applications, Multiplatform programming...` -->
 <!---- 
 🌱 I’m currently learning `Python`, `.NET` & `JS`
 - 💞️ I’m looking to collaborate on `Frontend WEB Applications...`
