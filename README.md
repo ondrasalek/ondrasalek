@@ -1,8 +1,8 @@
-- 👋 Hi, My name is Ondrej Salek <[@ondrasalek](https://github.com/ondrasalek)>
+- 👋 Hi, My name is Ondrej Salek < [@ondrasalek](https://github.com/ondrasalek) >
 <!-- - 👀 I’m interested in `Web applications, Multiplatform programming...` -->
 - 🌱 I’m studying at `Tomas Bata University in Zlin, Faculty of Applied Informatics, specialization - Software engineering` < [TBU FAI](https://fai.utb.cz/en/) >
 <!---- 
-🌱 I’m currently learning `Python` & `JS`
+🌱 I’m currently learning `Python`, `.NET` & `JS`
 - 💞️ I’m looking to collaborate on `Frontend WEB Applications...`
   --->
 - 📫 How to reach me - <a href="mailto:ondrasalek@gmail.com">ondrasalek@gmail.com</a>
