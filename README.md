@@ -6,10 +6,36 @@
 
 ### 🤳 About me
 
+- I am 22 year old, from 🇨🇿 Czech Republic.
 - 🌱 I’m studying at [`Tomas Bata University in Zlin, Faculty of Applied Informatics, specialization`](https://www.utb.cz/en/)
   - student of [`Software Engineering`](https://fai.utb.cz/en/) at [`TBU`](https://www.utb.cz/en/)
 
-<!-- - 👀 I’m interested in `Web applications, Multiplatform programming...` -->
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=14354C)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&color=239120)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&color=5C2D91)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=00000F)
+
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=google-cloud&color=4285F4)
+
+## Working with
+
+![](https://img.shields.io/badge/Apple-MacBook-999999?style=flat-square&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Raspberry_PI-Zero2/3-0078D6?style=flat-square&logo=raspberrypi&color=E4405F)
+
+<!-- ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57) -->
 
 ### 📫 How to reach me
 
