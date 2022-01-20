@@ -8,7 +8,7 @@
 🌱 I’m currently learning `Python`, `.NET` & `JS`
 - 💞️ I’m looking to collaborate on `Frontend WEB Applications...`
   --->
-- 📫 How to reach me
+### 📫 How to reach me
 
 <a href="mailto:ondrasalek@gmail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.instagram.com/salek_ondrej/">![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
