@@ -49,7 +49,9 @@
 
 <br>
 
-<!-- <table>
+<!--
+### 📈 GitHub Stats
+<table>
 <tr>
 <th> Stats </th>
 <th> Most Used Languages </th>
