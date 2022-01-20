@@ -1,4 +1,4 @@
-<h3 align=”center”>
+<h3 style="text-align: center;">
 👋 Hi, I’m <a href=”https://github.com/ondrasalek" target=”_blank” rel=”noreferrer”>Ondrej Salek</a>
 </h3>
   
