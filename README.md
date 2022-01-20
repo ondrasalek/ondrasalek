@@ -49,7 +49,7 @@
 
 <br>
 
-<table>
+<!-- <table>
 <tr>
 <th> Stats </th>
 <th> Most Used Languages </th>
@@ -67,7 +67,7 @@
 </td>
 </tr>
 
-</table>
+</table> -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ondrasalek&left_color=grey&right_color=violet)
 
