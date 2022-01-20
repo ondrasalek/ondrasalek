@@ -45,7 +45,7 @@
 
 </br>
 
-![](https://komarev.com/ghpvc/?username=ondrasalek&color=blue&style=plastic&label=Profile+View)
+![](https://komarev.com/ghpvc/?username=ondrasalek&color=DE73FF&style=plastic&label=Profile+View)
 ![](https://hit.yhype.me/github/profile?user_id=57462486)
 
 <!---
