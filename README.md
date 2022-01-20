@@ -1,5 +1,5 @@
 <h3 align=”center”>
-👋 Hi, I’m <a href=”https://github.com/ondrasalek/" target=”_blank” rel=”noreferrer”>Ondrej Salek</a>
+👋 Hi, I’m [@ondrasalek](https://github.com/ondrasalek)
 </h3>
   
 <!-- - 👀 I’m interested in `Web applications, Multiplatform programming...` -->
