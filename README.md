@@ -6,7 +6,7 @@
 
 ### 🤳 About me
 
-- 🌱 I’m studying at `Tomas Bata University in Zlin, Faculty of Applied Informatics, specialization`
+- 🌱 I’m studying at [`Tomas Bata University in Zlin, Faculty of Applied Informatics, specialization`](https://www.utb.cz/en/)
   - student of [`Software Engineering`](https://fai.utb.cz/en/) at [`TBU`](https://www.utb.cz/en/)
 
 <!-- - 👀 I’m interested in `Web applications, Multiplatform programming...` -->
