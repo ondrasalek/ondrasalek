@@ -4,7 +4,7 @@
 👋 Hi, I’m <a href=”https://github.com/ondrasalek" target=”_blank” rel=”noreferrer”>Ondrej Salek</a>
 </h3>
 
-### About me
+### 🤳 About me
 
 - 🌱 I’m studying at `Tomas Bata University in Zlin, Faculty of Applied Informatics, specialization`
   - student of [`Software Engineering`](https://fai.utb.cz/en/) at [`TBU`](https://www.utb.cz/en/)
