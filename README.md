@@ -45,8 +45,7 @@
 
 </br>
 
-![](https://komarev.com/ghpvc/?username=ondrasalek&color=DE73FF&style=plastic&label=Profile+View)
-![](https://hit.yhype.me/github/profile?user_id=57462486)
+![Profile View](https://visitor-badge.glitch.me/badge?page_id=ondrasalek&right_color=#DE73FF)
 
 <!---
 ondrasalek/ondrasalek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
