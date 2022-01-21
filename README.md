@@ -2,6 +2,7 @@
 
 <h3 align="center">
 👋 Hi, I’m <a href=”https://github.com/ondrasalek" target=”_blank” rel=”noreferrer”>Ondra</a>
+<img align=right src="./assets/dancing.gif" width="50px" alt="dancing"/>
 </h3>
 
 ## 🤳 About me
