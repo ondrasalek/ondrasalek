@@ -18,6 +18,8 @@
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&color=239120)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&color=5C2D91)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=00599C)
+![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&color=00599C)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=00000F)
 
 <br>
@@ -36,7 +38,7 @@
 
 ![](https://img.shields.io/badge/Apple-MacBook-999999?style=flat-square&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Raspberry_PI-Zero2/3-0078D6?style=flat-square&logo=raspberrypi&color=E4405F)
+![](https://img.shields.io/badge/Raspberry_PI-Zero2_/_3B_/_Pico-0078D6?style=flat-square&logo=raspberrypi&color=E4405F)
 
 <!-- ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57) -->
