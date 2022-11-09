@@ -1,0 +1,12 @@
+
+{
+  "assets": [
+      { "id": "cityModel", "src": "https://cdn.aframe.io/test-models/models/glTF-2.0/virtualcity/VC.gltf"}
+  ],
+  "entities": [
+      { "id":"city", "gltf-model": "#cityModel"}
+  ],
+  "embeds":[
+    { "id":"video", "position": { "x": 3, "y": 4, "z": 19 }, "rotation": { "x": 0, "y": 180, "z": 0}, "scale": 45, "html": "<iframe width="1202" height="599" src='https://www.youtube.com/embed/j7ZggaUbVlI?list=RDj7ZggaUbVlI' title='Charlie Puth - Betty Boop (_Blan Kato remix)' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>" }
+  ]
+}
