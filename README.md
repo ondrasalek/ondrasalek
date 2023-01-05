@@ -6,20 +6,24 @@
 
 ## 🤳 About me
 
-- I am 22 year old, from 🇨🇿 Czech Republic.
+- I am 23 year old, from 🇨🇿 Czech Republic.
 - 🌱 I’m studying at [`Tomas Bata University in Zlin, Faculty of Applied Informatics`](https://www.utb.cz/en/)
   - student of [`Software Engineering`](https://fai.utb.cz/en/)
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=14354C)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&color=239120)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&color=5C2D91)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=00599C)
 ![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&color=00599C)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=14354C)
+
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=00000F)
 
 <br>
@@ -38,7 +42,7 @@
 ## 💻 Working with
 
 ![](https://img.shields.io/badge/Apple-MacBook-999999?style=flat-square&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Windows-10_/_11-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Raspberry_PI-Zero2_/_3B_/_Pico-0078D6?style=flat-square&logo=raspberrypi&color=E4405F)
 
 <!-- ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
