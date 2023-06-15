@@ -8,7 +8,6 @@
 
 - I am 23 year old, from 🇨🇿 Czech Republic.
 - 🌱 I’m studying at [`Tomas Bata University in Zlin, Faculty of Applied Informatics`](https://www.utb.cz/en/)
-  - student of [`Software Engineering`](https://fai.utb.cz/en/)
 
 ## 💼 Technical Skills
 
