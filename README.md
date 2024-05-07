@@ -1,4 +1,4 @@
-<img align=”left” src="./assets/Banner-Black.png" alt="banner"/>
+<!-- <img align=”left” src="./assets/Banner-Black.png" alt="banner"/> -->
 
 <h3 align="center">
 👋 Hi, I’m <a href=”https://github.com/ondrasalek" target=”_blank” rel=”noreferrer”>Ondra</a>
@@ -6,69 +6,29 @@
 
 ## 🤳 About me
 
-- I am 24 year old, from 🇨🇿 Czech Republic.
-- 🌱 I’m studying at [`Tomas Bata University in Zlin, Faculty of Applied Informatics`](https://www.utb.cz/en/)
-- I am an IT specialist in the Czech Armed Forces 
+-   I am 24 year old, from 🇨🇿 Czech Republic.
+-   🌱 I’m studying at [`Tomas Bata University in Zlin, Faculty of Applied Informatics`](https://www.utb.cz/en/)
+-   I am an IT specialist in the Czech Armed Forces
 
-## 💼 Technical Skills (Like to play with)
+## 🧩 Like to play with
 
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
-
-<br>
-
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=TailwindCSS&color=06B6D4)
 
 <br>
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&color=000)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=google-cloud&color=4285F4)
 
-## 💻 Working with
+## 📺 Equipment
 
 ![](https://img.shields.io/badge/Apple-MacBook-999999?style=flat-square&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows-10_/_11-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Raspberry_PI-Zero2_/_3B_/_Pico-0078D6?style=flat-square&logo=raspberrypi&color=E4405F)
-
-<!-- ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57) -->
 
 ### 📫 How to reach me
 
 <a href="mailto:ondrasalek@gmail.com">![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.instagram.com/salek_ondrej/">![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/ondrejsalek/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-<br>
-
-<!--
-### 📈 GitHub Stats
-<table>
-<tr>
-<th> Stats </th>
-<th> Most Used Languages </th>
-</tr>
-<tr>
-<td>
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=ondrasalek&theme=dark&hide_title=true&custom_title=Stats&disable_animations=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ondrasalek&theme=dark&hide_title=true&layout=compact)](https://github.com/yushi1007)
-
-</td>
-</tr>
-
-</table> -->
-
-![](https://visitor-badge.glitch.me/badge?page_id=ondrasalek&left_color=grey&right_color=violet)
-
-<!---
-ondrasalek/ondrasalek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
