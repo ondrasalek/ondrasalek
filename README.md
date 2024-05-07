@@ -10,26 +10,13 @@
 - 🌱 I’m studying at [`Tomas Bata University in Zlin, Faculty of Applied Informatics`](https://www.utb.cz/en/)
 - I am an IT specialist in the Czech Armed Forces 
 
-## 💼 Technical Skills
+## 💼 Technical Skills (Like to play with)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&color=000000)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&color=239120)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&color=5C2D91)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=00599C)
-![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&color=00599C)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=14354C)
-
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=00000F)
 
 <br>
 
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=TailwindCSS&color=06B6D4)
 
 <br>
