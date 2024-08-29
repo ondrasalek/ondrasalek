@@ -1,5 +1,3 @@
-<!-- <img align="left" src="./assets/Banner-Black.png" alt="banner"/> -->
-
 <h3 align="center">
 👋 Hi, I’m <a href="https://github.com/ondrasalek" target="_blank" rel="noreferrer">Ondra</a>
 </h3>
