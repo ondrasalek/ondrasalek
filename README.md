@@ -8,6 +8,8 @@
 -   🌱 I’m studying at [`Tomas Bata University in Zlin, Faculty of Applied Informatics`](https://www.utb.cz/en/)
 -   I am an IT specialist in the Czech Armed Forces
 
+-   I am now learning GOLANG
+
 ## 🧩 Like to play with
 
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&color=000000)
