@@ -4,7 +4,7 @@
 
 ## 🤳 About me
 
--   I am 25 year old, from 🇨🇿 Czech Republic.
+-   I am 26 year old, from 🇨🇿 Czech Republic.
 -   I am an IT specialist in the Czech Armed Forces
 
 -   I am now learning GOLANG
