@@ -1,32 +1,67 @@
 <h3 align="center">
-👋 Hi, I’m <a href="https://github.com/ondrasalek" target="_blank" rel="noreferrer">Ondra</a>
+👋 Hi, I'm <a href="https://github.com/ondrasalek" target="_blank" rel="noreferrer">Ondra</a>
 </h3>
 
-## 🤳 About me
+<p align="center">
+  <em>IT Specialist · Self-Hosting Enthusiast · Infrastructure Builder</em>
+</p>
 
--   I am 26 year old, from 🇨🇿 Czech Republic.
--   I am an IT specialist in the Czech Armed Forces
+---
 
--   I am now learning GOLANG
+## 🤳 About Me
 
-## 🧩 Like to play with
+- 🇨🇿 26 years old, based in Czech Republic
+- 🎖️ IT Specialist in the Czech Armed Forces
+- 🏠 Building self-hosted infrastructure for homelabs
+- 🔧 Currently focused on **Go**, **Docker**, and **networking**
 
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&color=000000)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=TailwindCSS&color=06B6D4)
+---
 
-<br>
+## 🚀 Featured Project
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&color=000)
+[![CGNAT VPS Gateway](https://img.shields.io/badge/CGNAT_VPS_Gateway-Self--Hosted_Tunnel-blue?style=for-the-badge&logo=wireguard)](https://github.com/ondrasalek/cgnat-vps-gateway)
+
+Expose home servers behind CGNAT using WireGuard, Traefik, and Cloudflare — without opening inbound ports.
+
+---
+
+## 🧩 Tech Stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B4FBB?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjwvc3ZnPg==&logoColor=white)
+
+---
 
 ## 📺 Equipment
 
-![](https://img.shields.io/badge/Apple-MacBook-999999?style=flat-square&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Windows-10_/_11-0078D6?style=flat-square&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Raspberry_PI-Zero2_/_3B_/_Pico-0078D6?style=flat-square&logo=raspberrypi&color=E4405F)
+![Apple](https://img.shields.io/badge/MacBook-999999?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Synology](https://img.shields.io/badge/Synology_NAS-B5B5B6?style=flat-square&logo=synology&logoColor=black)
 
-### 📫 How to reach me
+---
+
+## 📫 Contact
 
 <a href="mailto:ondrasalek@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
